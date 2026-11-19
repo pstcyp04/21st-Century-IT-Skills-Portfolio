@@ -1,27 +1,23 @@
 <div align="center">
 
-<img src="assets/ge4120-banner.svg" alt="GE 4120 Activities Portfolio" width="100%">
+<img src="images/portfolio-banner.png" alt="GE 4120 Activities Portfolio" width="100%">
 
-# GE 4120 — Activities Portfolio
+GE 4120 — Activities Portfolio
 
-**Prestine Cypres S. Palencia**  
+Prestine Cypres S. Palencia
 BS Industrial Engineering · Ateneo de Davao University
 
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-GE%204120-1D5F9E?style=flat-square)
-![Focus](https://img.shields.io/badge/FOCUS-Industrial%20Engineering-3478B9?style=flat-square)
-![Activities](https://img.shields.io/badge/ACTIVITIES-01%E2%80%9307-6FA8DC?style=flat-square)
+
+
+
 
 </div>
 
----
+About Me
 
-## About Me
+<div align="center">   <img src="images/profile-photo.png" alt="Profile photo of Prestine Cypres Palencia" width="190" /> </div>
 
-<div align="center">
-  <img src="images/profile-photo.jpg" alt="Profile photo of Prestine Cypres Palencia" width="190" />
-</div>
-
-Hi! I'm **Prestine Cypres Palencia**, a **third-year Bachelor of Science in Industrial Engineering (BS IE)** student at **Ateneo de Davao University**.
+Hi! I'm Prestine Cypres Palencia, a third-year Bachelor of Science in Industrial Engineering (BS IE) student at Ateneo de Davao University.
 
 My interests include process optimization, production planning, quality control, work study and measurement, ergonomics, and data analysis. I enjoy exploring how engineering methods and digital tools can help improve processes, productivity, and operational efficiency.
 
