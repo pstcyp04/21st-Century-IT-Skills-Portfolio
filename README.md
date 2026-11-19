@@ -81,17 +81,21 @@ Welcome to my collection of **GE 4120 activities!** This portfolio showcases my 
 
 ---
 
+
+
 ### 📚 Explore My Activities
 
 | No. | Activity | Description |
 |:---:|---|---|
-| **01** | 🎨 [Presentation Design Principles](Activity-01/README.md) | Applying visual hierarchy, alignment, contrast, proximity, and repetition to create effective presentations. |
-| **02** | 🌈 [Color Palette and Typography](Activity-02/README.md) | Exploring color combinations, typography, and visual consistency in digital design. |
-| **03** | 💧 [HYDR8 — Infographic & Mini Project](Activity-03/README.md) | Presenting a smart hydration product concept through creative visual communication and documentation. |
-| **04** | 📊 [Google Sheets Presentation](Activity-04/README.md) | Exploring spreadsheet functions, formulas, charts, and data organization. |
-| **05** | 🤖 [Exploring and Improving AI Prompts](Activity-05/README.md) | Understanding how clear instructions and effective prompting improve AI-generated outputs. |
-| **06** | 🏎️ [REDRIDE — Website Development](Activity-06/README.md) | Exploring AI-assisted website development through the creation of a vehicle rental platform. |
-| **07** | 📄 [Professional Resume Generation](Activity-07/README.md) | Exploring AI-powered resume creation and evaluating professional presentation and content. |
+| **01** | 🎨 [Presentation Design Principles](https://github.com/pstcyp04/21st-Century-IT-Skills-Portfolio/tree/main/Activities/%F0%9F%93%82%20%F0%9F%8E%A8%20Activity%201%3A%20Presentation%20Design%20Principles) | Applying visual hierarchy, alignment, contrast, proximity, and repetition to create effective presentations. |
+| **02** | 🌸 [Color Palette and Typography](https://github.com/pstcyp04/21st-Century-IT-Skills-Portfolio/tree/main/Activities/%F0%9F%93%82%20%F0%9F%8C%B8%20Activity%202%3A%20Color%20Palette%20and%20Typography) | Exploring color combinations, typography, and visual consistency in digital design. |
+| **03** | 📊 [Social Media Infographics](https://github.com/pstcyp04/21st-Century-IT-Skills-Portfolio/tree/main/Activities/%F0%9F%93%82%20%F0%9F%93%8A%20Activity%203%3A%20Social%20Media%20Infographics) | Presenting information and creative concepts through visual communication and infographic design. |
+| **04** | 📊 [Google Sheets Presentation](https://github.com/pstcyp04/21st-Century-IT-Skills-Portfolio/tree/main/Activities/%F0%9F%93%82%20%F0%9F%93%8A%20Activity%204%3A%20Google%20Sheets%20Presentation) | Exploring spreadsheet functions, formulas, charts, and data organization. |
+| **05** | 🤖 [Exploring and Improving AI Prompts](https://github.com/pstcyp04/21st-Century-IT-Skills-Portfolio/tree/main/Activities/%F0%9F%93%82%20%F0%9F%A4%96%20Activity%205%3A%20Exploring%20and%20Improving%20AI%20Prompts) | Understanding how clear instructions and effective prompting improve AI-generated outputs. |
+| **06** | 🏎️ [REDRIDE – Website Development](https://github.com/pstcyp04/21st-Century-IT-Skills-Portfolio/tree/main/Activities/%F0%9F%93%82%20%F0%9F%8F%8E%EF%B8%8F%20Activity%206%3A%20REDRIDE%20Website%20Development) | Exploring AI-assisted website development through the creation of a vehicle rental platform. |
+| **07** | 📄 [Professional Resume Generation](https://github.com/pstcyp04/21st-Century-IT-Skills-Portfolio/tree/main/Activities/%F0%9F%93%82%20%F0%9F%93%84%20Activity%207%3A%20Professional%20Resume%20Generation) | Exploring AI-assisted resume creation and professional presentation of personal qualifications. |
+
+
 
 ---
 
