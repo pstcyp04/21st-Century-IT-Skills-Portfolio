@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 
 # 🏎️ ACTIVITY 06
@@ -13,6 +14,7 @@
 </div>
 
 
+
 ---
 
 ## 🔹 About the Activity
@@ -21,7 +23,7 @@ This activity focuses on using Artificial Intelligence (AI)-powered website deve
 
 The website was designed for customers in **Davao City**, allowing them to browse different vehicles, compare rental rates, and choose between self-drive and with-driver services.
 
-To establish a distinct brand identity, I used a **Formula 1-inspired design theme**, incorporating racing red, carbon black, white, silver, and dark gray. The overall appearance was intended to communicate speed, performance, convenience, and professionalism.
+To establish a distinct brand identity, I used a **Formula 1-inspired design theme**, incorporating racing red, carbon black, white, silver, and dark gray. The overall appearance communicates speed, performance, convenience, and professionalism.
 
 ## 🎯 Learning Objectives
 
@@ -42,10 +44,10 @@ To establish a distinct brand identity, I used a **Formula 1-inspired design the
 |---|---|
 | **Vehicle Catalog** | Displays 10 rental vehicles with photos, specifications, and descriptions. |
 | **Rental Pricing** | Presents daily rental rates for self-drive and with-driver options. |
-| **Booking Inquiry Form** | Allows customers to submit their rental inquiries. |
+| **Booking Inquiry Form** | Allows customers to submit rental inquiries. |
 | **Rental Details** | Collects relevant information such as rental dates and preferred service. |
 | **Contact Section** | Provides a way for customers to reach the business. |
-| **Responsive Design** | Uses a modern layout intended to provide a convenient browsing experience across devices. |
+| **Responsive Design** | Uses a modern layout intended to provide convenient browsing across devices. |
 
 ## 🎨 Design Concept and Theme
 
@@ -81,15 +83,13 @@ This experience demonstrated that AI tools can make website development more acc
 
 ## 📎 Activity Output
 
-The completed REDRIDE website project and its supporting documentation serve as the output of this activity.
-
 **Project Name:** REDRIDE – Vehicle Rental Website
 
 **Development Platform:** Lovable
 
 **Website Concept:** Vehicle rental services in Davao City
 
-*Add your published website link or project documentation link here if required.*
+[📥 View Activity 6 Submission (PDF)](./PALENCIA_ACTIVITY6.pdf)
 
 ## 💡 Learning Reflection
 
