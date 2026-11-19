@@ -79,7 +79,7 @@ Google Sheets can support different activities and information management needs.
 
 The complete 15-slide presentation is available below.
 
-[**📥 View Activity 4 Presentation (PDF)**](../../Assets/IMAGES/Activity-4-Google-Sheets-Presentation%281%29.pdf)
+[📥 View Google Sheets Presentation (PDF)](./Activity-4-Google-Sheets-Presentation.pdf)
 
 </div>
 
